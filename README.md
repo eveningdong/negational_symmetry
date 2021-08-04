@@ -1,5 +1,9 @@
 # Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification
 
+## Publication
+This repository provides the source codes and pre-trained weights described in the paper:  
+[**Negational Symmetry of Quantum Neural Networks for Binary Pattern Classification**](https://arxiv.org/abs/2105.09580).
+
 ## Enviroment
 ### System Requirement
 ```
